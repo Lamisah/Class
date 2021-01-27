@@ -1,0 +1,130 @@
+h1 {
+  text-align:center;
+  color:black;
+  font-size:50px; 
+  font-family: Cursive;
+  font-weight:bold;
+}
+
+body{
+text-align:center; 
+  background-color:#E6EE9C;
+   
+       
+      margin: 0;
+  
+}
+
+
+img {
+
+border-radius:50%;
+width:300px;
+  height:200px;
+}
+
+p {
+ color:#1B5E20;
+  font-size:18px;
+  font-weight:bold;
+
+}
+
+.menu {
+  list-style:none;
+  font-family: cursive;
+  float:left;
+  position:fixed;
+  display:block;
+  padding: 8px;
+  top:0px;
+  right:30px;
+  cursor: pointer;
+color:black;
+  font-weight:bold;
+   
+}
+
+h3{
+  color:black;
+}
+
+#Mywork{
+  background-color:#E1BEE7;
+  height:300px;
+  
+}
+
+.link:hover{
+   font-size: 23px;
+    text-decoration: underline;
+  color:#212121;
+
+}
+
+li{
+  display: inline;
+  text-align:center;
+ background-color:white;
+  padding: 4px;
+}
+
+
+    
+
+
+    
+
+
+
+hr {
+  height:70px;
+  width:150px;
+  font-weight:bold;
+  color: black;
+}
+
+#ooo{
+  width:100%;
+} 
+
+#Welcome{
+background-image: linear-gradient( blue, pink);
+  height:110%;
+      position: absolute;
+      top: 0;
+      left: 0;
+      width: 100%;
+}
+
+
+h2{
+  font-size:50px;
+   font-family:Cursive;
+    
+}
+
+
+
+html{
+  scroll-behavior:smooth;
+}
+#myfavoritebooks {
+ background-color:#FFCDD2;
+  
+}
+
+#MyInspiration {
+  background-color:#E3F2FD;
+}
+#enid {
+  border: 3px solid;
+  boreder-radius:0%;
+}
+
+#Contact-me {
+background-color:#80CBC4;
+}
+
+
+
